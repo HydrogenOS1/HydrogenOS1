@@ -2,7 +2,6 @@
 I am a 13 year-old living in australia! I like to code in `HTML`, `CSS`, `JavaScript`, `Java` and a litle `C#`.
 <div id="main" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mooshay105&show_icons=true&theme=tokyonight" alt="Mooshay105's GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=Mooshay105&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooshay105&show_icons=true&theme=tokyonight" alt="Mooshay105's Top Languages"><br>
 </div>
 
