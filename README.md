@@ -1,5 +1,5 @@
-# Hi there, I'm HydrogenOS
-I am a 13 year-old living in australia! I like to code in `HTML`, `CSS`, `JavaScript`, `Java` and a litle `C#`.
+# Hi there, I'm Mooshay105!
+I am a 13 year-old living in New Zealand! I like to code in `HTML`, `CSS`, `JavaScript`, `Java` and a litle `C#`.
 <div id="main" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mooshay105&show_icons=true&theme=tokyonight" alt="Mooshay105's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mooshay105&show_icons=true&theme=tokyonight" alt="Mooshay105's Top Languages"><br>
