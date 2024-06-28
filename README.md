@@ -1,4 +1,4 @@
-# Hi there, I'm Mooshay105!
+# Hi there, I'm Malcolm!
 I am a 13 year-old living in New Zealand! I like to code in `HTML`, `CSS`, `JavaScript`, `Java` and a litle `C#`.
 <div id="main" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mooshay105&show_icons=true&theme=tokyonight" alt="Mooshay105's GitHub Stats">
